@@ -36,9 +36,4 @@ public class Alien {
 	public String toString() {
 		return "Alien [id=" + id + ", name=" + name + ", points=" + points + "]";
 	}
-	
-
-	
-	
-
 }
